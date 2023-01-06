@@ -194,6 +194,9 @@ footer .foot{
   padding: 10px 20px;
   border-radius: 10px;
 }
+.foot .footer1 img{
+  margin-top: 20px;
+}
 
 .foot .footer1 .btn{
   margin-top: 10px;
